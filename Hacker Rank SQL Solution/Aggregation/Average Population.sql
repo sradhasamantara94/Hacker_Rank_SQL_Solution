@@ -1,0 +1,3 @@
+# Author: Sradha Samantara
+SELECT FLOOR(AVG(POPULATION))
+FROM CITY

@@ -1,0 +1,3 @@
+# Author: Sradha Samantara
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY
